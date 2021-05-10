@@ -135,5 +135,5 @@ async def MasterCommands(message):
                 await message.channel.send(i)
             ch(text,channel,author)
 
-key = "Nzg3MzgwNjU0NDcxOTA1MzMw.X9UHYA.W49A9GWOzMKQJIPjuBWXDCFOHVo"
+key = "Token"
 client.run(key)
