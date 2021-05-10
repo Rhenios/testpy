@@ -4,7 +4,7 @@ import glob
 import sqlite3
 dbname = "URL.db"
 game = ""
-
+#test
 client = discord.Client()
 prefix = "!"
 Mprefix = "/!"
